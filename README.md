@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # job-search
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -37,3 +38,7 @@ npm run build
 ```sh
 npm run lint
 ```
+=======
+# Job-Search
+Job Search using Vue + Typescript
+>>>>>>> bc35c25324bae5cbbbb6d62a94dd8927400a50c7
